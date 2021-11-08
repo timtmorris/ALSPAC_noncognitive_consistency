@@ -1,6 +1,7 @@
 # ALSPAC_noncognitive_consistency
 
 These Stata files were used to produce the results in the following paper: 
+
 Morris, T.T., Davey Smith, G., van den Berg, G. et al. Consistency of noncognitive skills and their relation to educational outcomes in a UK cohort. Transl Psychiatry 11, 563 (2021). https://doi.org/10.1038/s41398-021-01661-8.
 
 The file "noncog_master.do" will call all individual do files and create the relevant folders required for analyses. 
